@@ -31,7 +31,7 @@ class Mittu extends React.Component {
   }
 
   render() {
-    return <h1 onClick={this.handleHurt}>hey i am mittu</h1>;
+    return <h1 onClick={this.handleHurt}>Hey i am mittu</h1>;
   }
 }
 
